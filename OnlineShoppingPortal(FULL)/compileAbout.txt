@@ -1,0 +1,4 @@
+<- Command to Run -> 
+        1) clear
+        2) g++ main.cpp working.cpp items.cpp -o result
+        3) ./result

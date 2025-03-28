@@ -1,0 +1,3 @@
+tlhasami,Islamabad,03139549737,tlharajpoot@gmail.com,12345678,12345678
+bilal,pindi,12345678,bilal@gmail.com,12345678,12345678
+sohaib,islamabad,12345678,sohaib@gmail.com,12345678,12345678

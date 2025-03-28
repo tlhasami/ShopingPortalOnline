@@ -1,0 +1,63 @@
+$Fish & Meat
+salmon,1500,10
+Chicken Breast,600,10
+Beef Mince,950,15
+Mutton Chops,1500,12
+Prawns,1800,10
+Fresh Meat,120,123
+$Frozen Food
+Frozen French Fries,300,0
+Chicken Nuggets,800,2
+Fish Fingers,850,10
+Vegetable Mix,400,20
+Frozen Pizza,700,12
+Fresh Nugits,1000,15
+2,120,15
+$Liquor & Tobacco
+Classic Cigarettes,500,30
+Imported Whiskey,4500,5
+Local Beer,600,2
+Cigar Pack,3000,8
+Rolling Tobacco,2000,6
+$Bakery 
+Croissant,200,30
+Chocolate Cake,1200,8
+White Bread,250,20
+Butter Cookies,500,23
+Brownies,750,15
+$Baby Formula
+Baby & Toddler ,750,15
+Diapers (Pack of 20),1500,3
+Baby Wipes,600,4
+Toddler Cereal,800,20
+Baby Shampoo,700,18
+$Fresh Produce 
+Apples per kg,300,25
+Tomatoes per kg,150,30
+Spinach per kg,120,15
+Bananas per dozen,200,20
+Potatoes  per kg,180,40
+$Groceries
+Rice (5kg),1200,10
+Sugar (2kg),400,15
+Cooking Oil (1L),650,20
+Flour (5kg),1100,12
+Salt (1kg),100,30
+$Household & Homecare
+Detergent Powder (5kg),1300,8
+Dishwashing Liquid (500ml),450,20
+Air Freshener,600,10
+Floor Cleaner,700,12
+Toilet Paper (Pack of 10),900,15
+$Personal Care
+Shampoo (500ml),800,20
+Toothpaste (200g),350,25
+Body Lotion (400ml),900,15
+Face Wash,750,18
+Hair Oil,650,22
+$Pharma & Wellness
+Multivitamins,1200,10
+Pain Reliever Tablets,500,20
+Cough Syrup,700,12
+Bandages (Pack of 50),800,15
+Thermometer,1500,8

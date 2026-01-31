@@ -73,7 +73,7 @@ Suggested improvements:
 
 ## 📄 License
 
-This project is provided as-is. You may add a license such as MIT if you want to open-source the project.
+This project is provided as-is.
 
 ---
 
@@ -81,4 +81,3 @@ This project is provided as-is. You may add a license such as MIT if you want to
 
 Created by Talha Sami (repo owner: `tlhasami`).
 
-If you want me to add a formal license file, CI configuration, or a CONTRIBUTING guide, tell me which one and I will add it.
